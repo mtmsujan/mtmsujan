@@ -112,11 +112,6 @@
 
 <br />
 
-
-<div><img src="https://mtmsujan.github.io/static/images/spotify-readme-example.svg" /></div>
-
-<br />
-
 <div>
     <img src="https://komarev.com/ghpvc/?username=mtmsujan&&style=flat-square" />
 </div>
