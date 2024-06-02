@@ -3,8 +3,7 @@
         style="width: 100%" /></div>
 
 
-### <div>I'm Sujan, a Full Stack Web Developer with a passion for building dynamic and responsive web
-    applications</div>
+### <div>I'm Sujan, a Full Stack Web Developer with a passion for building dynamic and responsive web applications</div>
 
 - 🔭 I enjoy working on projects involving modern web technologies
 - 🌱 I'm always excited to learn new things
@@ -79,8 +78,7 @@
     <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px"
             src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
     <a href="https://wordpress.com/" target="_blank"><img style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>
-</div>
+            src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a> </div>
 
 <br />
 
