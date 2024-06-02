@@ -112,8 +112,8 @@
 
 <br />
 
-<div>
-    <img src="https://komarev.com/ghpvc/?username=mtmsujan&&style=flat-square" />
+<div style="width: 100%">
+    <img src="https://komarev.com/ghpvc/?username=mtmsujan&&style=flat-square" width="100%" />
 </div>
 
 <br />
