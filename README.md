@@ -1,6 +1,7 @@
 <div><img
         src="https://cdn.discordapp.com/attachments/825635243738267658/1246768717992558622/mtmsujan-github-banner.png?ex=665d975a&is=665c45da&hm=0077eed8caeae1779f60412c5b36eb37193cd9bba5a425a2fbfd75411708868d&"
         style="width: 100%" /></div>
+        
 
 
 ### <div>I'm Sujan, a Full Stack Web Developer with a passion for building dynamic and responsive web applications</div>
@@ -15,6 +16,12 @@
 - 🎮 I'm an avid gamer and enjoy playing strategy games
 - 📈 I’m interested in learning about machine learning and how it can be integrated with web development
 - 🧩 I enjoy contributing to open-source projects and collaborating with other developers
+
+<br />
+
+<div style="display: block">
+    <img src="https://komarev.com/ghpvc/?username=mtmsujan&&style=flat-square" />
+</div>
 
 <br />
 
@@ -109,11 +116,5 @@
 ## Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=mtmsujan&show_icons=true&count_private=true&hide_border=true"
     align="left" />
-
-<br />
-
-<div style="display: block">
-    <img src="https://komarev.com/ghpvc/?username=mtmsujan&&style=flat-square" />
-</div>
 
 <br />
