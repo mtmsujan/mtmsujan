@@ -112,7 +112,7 @@
 
 <br />
 
-<div style="width: 100%">
+<div style="display: block">
     <img src="https://komarev.com/ghpvc/?username=mtmsujan&&style=flat-square" />
 </div>
 
