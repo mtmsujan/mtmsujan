@@ -1,5 +1,5 @@
 <div><img
-        src="https://gallery.imjol.com/mtmsujan-github-banner-one.png"
+        src="https://gallery.imjol.com/mtmsujan-github-banner-2.png"
         style="width: 100%" /></div>
         
 
