@@ -1,5 +1,5 @@
 <div><img
-        src="https://gallery.imjol.com/mtmsujan-github-banner-2.png"
+        src="https://gallery.imjol.com/senior-full-stack-developer.png"
         style="width: 100%" /></div>
         
 
