@@ -4,7 +4,7 @@
         
 
 
-### <div>I'm Sujan, a Senior WordPress Developer with a passion for building dynamic and responsive websites</div>
+### <div>I'm Sujan, a Senior Full Stack Developer with a passion for building web applications.</div>
 
 - 🔭 I enjoy working on projects involving modern web technologies
 - 🌱 I'm always excited to learn new things
